@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/weather_widget_icon_trashbin_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/weather_widget_icon_trashbin_normal"/>
+
+</selector>

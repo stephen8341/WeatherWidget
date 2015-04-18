@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">可乐天气</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="city_unknow">未知</string>
+    <string name="click_fresh">点击刷新</string>
+    <string name="loading_data">正在加载&#8230;</string>
+    <string name="search_more_citys">搜索更多城市名称</string>
+    <string name="no_network">无网络链接</string>
+    <string name="city_already_add">该城市已经添加</string>
+    <string name="location_failure">定位失败</string>
+    <string name="promt">提示</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="weather_qing">晴</string>
+    <string name="weather_duoyun">多云</string>
+    <string name="weather_yin">阴</string>
+    <string name="weather_xiaoyu">小雨</string>
+    <string name="weather_zhongyu">中雨</string>
+    <string name="weather_dayu">大雨</string>
+    <string name="weather_zhenyu">阵雨</string>
+    <string name="weather_leizhenyu">雷阵雨</string>
+    <string name="weather_baoyu">暴雨</string>
+    <string name="weather_dabaoyu">大暴雨</string>
+    <string name="weather_tedabaoyu">特大暴雨</string>
+    <string name="weather_xiaoxue">小雪</string>
+    <string name="weather_zhongxue">中雪</string>
+    <string name="weather_daxue">大雪</string>
+    <string name="weather_zhenxue">阵雪</string>
+    <string name="weather_yujiaxue">雨夹雪</string>
+    <string name="weather_baoxue">暴雪</string>
+    <string name="weather_yu">雨</string>
+    <string name="weather_xue">雪</string>
+    <string name="weather_leizhenyubingbao">雷阵雨冰雹</string>
+    <string name="weather_wu">雾</string>
+    <string name="weather_shachenbao">沙尘暴</string>
+    <string name="weather_mai">霾</string>
+    <string name="loc_province">省</string>
+    <string name="loc_city">市</string>
+    <string name="loc_xinjiang">新疆</string>
+    <string name="loc_xizang">西藏</string>
+    <string name="loc_ningxia">宁夏</string>
+    <string name="loc_neimenggu">内蒙古</string>
+    <string name="loc_guangxi">广西</string>
+    <string name="loc_xianggang">香港</string>
+    <string name="loc_aomen">澳门</string>
+    <string name="air_quality_excellent">优</string>
+    <string name="air_quality_good">良</string>
+    <string name="air_quality_mid_pollution">轻度污染</string>
+    <string name="air_quality_moderate_pollution">中度污染</string>
+    <string name="air_quality_severe_pollution">重度污染</string>
+    <string name="air_quality_x_severe_pollution">严重污染</string>
+    <string name="hot_citys_list">北京|北京,上海|上海,广东|深圳,广东|广州,重庆|重庆,浙江|宁波,浙江|杭州,四川|成都,湖北|武汉,天津|天津,辽宁|沈阳,福建|厦门,广东|珠海,江苏|南京,广东|东莞,湖南|长沙,陕西|西安,山东|济南,吉林|长春,云南|昆明,广西|南宁,山东|青岛,河南|郑州,山西|太原,河南|信阳,江西|南昌,安徽|合肥,台湾|台北,辽宁|大连,江苏|苏州,香港|香港,澳门|澳门</string>
+    <string name="weather_load_null">暂无该城市天气数据</string>
+    <string name="weather_load_failure">获取天气数据失败</string>
+    <string name="weather_location_failure">定位失败</string>
+    <string name="whether_manual_add_city">定位当前城市失败,是否手动添加?</string>
+    <string name="temperature_zero">0℃</string>
+    <string name="temperature_sign">℃</string>
+    <string name="time_zero">00:00</string>
+    <string name="start_experence">立即体验</string>
+    <string name="widget_12_hours_format" translatable="false">hh:mm</string>
+    <string name="widget_24_hours_format" translatable="false">kk:mm</string>
+    <string name="init_pomt">载入天气皮肤中&#8230;</string>
+    <string name="no_continue_wind">无持续风向</string>
+    <string name="sunday">周日</string>
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="yesterday">昨天</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+
+</resources>

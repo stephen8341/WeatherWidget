@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="SimpleDateFormat">
+        <ignore path="src\com\morncloud\publics\util\DateUtil.java" />
+        <ignore path="src\com\morncloud\publics\util\Lunar.java" />
+    </issue>
+</lint>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="translucent">#dd000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="state_selected">#aaffffff</color>
+    <color name="dialog_bg">#55777777</color>
+    <color name="dialog_body">#77666666</color>
+    <color name="edittext_bg">#ff555555</color>
+    <color name="autocomplete_text_bg">#ff444444</color>
+    <!-- 程序常用字体颜色 -->
+    <color name="normal_text_color">#ddffffff</color>
+    <color name="start_button_normal">#2e2e2e</color>
+    <color name="start_button_pressed">#222222</color>
+
+</resources>

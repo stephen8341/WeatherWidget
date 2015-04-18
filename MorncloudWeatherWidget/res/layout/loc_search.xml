@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff000000" >
+
+    <RelativeLayout
+        android:id="@+id/rl_search_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true" >
+
+        <AutoCompleteTextView
+            android:id="@+id/et_search_city"
+            style="@style/text_normal"
+            android:layout_width="282dp"
+            android:layout_height="30dp"
+            android:layout_centerHorizontal="true"
+            android:background="@color/dialog_body"
+            android:completionThreshold="1"
+            android:hint="@string/search_more_citys"
+            android:paddingLeft="34dp"
+            android:popupBackground="@color/edittext_bg" >
+        </AutoCompleteTextView>
+
+        <ImageView
+            android:id="@+id/ivb_search_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/et_search_city"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/weather_widget_icon_search" />
+    </RelativeLayout>
+
+    <GridView
+        android:id="@+id/gv_search_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/rl_search_city"
+        android:layout_below="@+id/rl_search_city"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="40dp"
+        android:listSelector="@drawable/select_city_selector"
+        android:numColumns="4"
+        android:verticalSpacing="15dp" >
+    </GridView>
+
+</RelativeLayout>

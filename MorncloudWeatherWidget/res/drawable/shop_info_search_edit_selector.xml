@@ -1,0 +1,9 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/shop_info_search_edit_bg" android:state_focused="false" android:state_pressed="false" android:state_selected="false"/>
+    <item android:drawable="@drawable/shop_info_search_edit_bg_sel" android:state_focused="false" android:state_pressed="false" android:state_selected="true"/>
+    <item android:drawable="@drawable/shop_info_search_edit_bg" android:state_focused="true" android:state_pressed="false" android:state_selected="false"/>
+    <item android:drawable="@drawable/shop_info_search_edit_bg_sel" android:state_focused="true" android:state_pressed="false" android:state_selected="true"/>
+    <item android:drawable="@drawable/shop_info_search_edit_bg_sel" android:state_pressed="true"/>
+
+</selector>
